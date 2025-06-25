@@ -12,8 +12,12 @@
   background-color: var(--background-color);
 }
 
+.cards > ul > li:hover {
+  font-size: 150%;
+}
+
 .cards .cards-card-body {
-  margin: 24px;
+  margin: 16px;
 }
 
 .cards .cards-card-image {
